@@ -1,4 +1,4 @@
-# Gitday_jul8th
+# jopinor
 
 ## About Me
 Hey guys, I am just a phd candidate in neuroscience trying to understand the mechanism behind brain`s development.
