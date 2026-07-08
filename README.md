@@ -11,5 +11,8 @@ Working with functional ephys data from the CA3 of the hippocampus to uncover th
 - Neural Circuit Assembly Lab
 - Neuroscience
 
-## Education
-| Degree | University | Year
+## Education
+| Degree | University | Year |
+| PhD | University of Zurich | 2026
+| MSc | Yonsei University | 2018
+
